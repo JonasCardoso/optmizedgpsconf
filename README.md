@@ -37,8 +37,8 @@ __It's Magisk install-able, don't install it by TWRP but with Magisk instead!__
    *__Note 3:__ GPS was made to work in outdoor places. For indoor/enclosed places such as inside of your house don't forget that, it will take a few minutes to fix. It drains more battery, but is required if you're an advanced user that use gps all the time.*  
    
 ## Changelog
-#### ~~Version 1.0~~
-- ~~Initial release~~ 
+#### Version 1.0
+- Initial release
 
 #### Version 2.0
 - Last update and final version. *Now it works fine for both Android Nougat & Oreo ROMs and is correctly replacing the gps.conf file in corresponding directory path.*
